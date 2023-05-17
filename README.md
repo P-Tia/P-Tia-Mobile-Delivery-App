@@ -1,10 +1,10 @@
-# p_tia
+# P_Tia
 
-A new Flutter project.
+This is a mobile delivery app Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project aims at producing a delivery app that incorporates messengers, users/clients, Admin and the sellers.
 
 A few resources to get you started if this is your first Flutter project:
 
